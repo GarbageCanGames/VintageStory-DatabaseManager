@@ -1,0 +1,10 @@
+{
+  "type": "code",
+  "id": "databasemanager",
+  "name": "Database Manager",
+  "version": "1.0.0",
+  "description": "Provides a managed database API for other mods.",
+  "authors": [ "Xenenic" ],
+  "website": "",
+  "side": "Server"
+}
